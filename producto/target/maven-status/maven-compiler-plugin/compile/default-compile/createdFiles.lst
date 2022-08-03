@@ -1,0 +1,4 @@
+com\pucese\repositories\ProductoRepository.class
+com\pucese\producto\ProductoRestApplication.class
+com\pucese\entities\producto.class
+com\pucese\resources\ProductoResource.class
